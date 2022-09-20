@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Craft-Runner</title>
+	<release-date>Not released yet</release-date>
+	<website>https://craftrunner.esolutions-it.nl/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Play Store</name>
+			<link></link>
+		</platform>
+	</platforms>
+	
+	<description>
+
+	</description>
+
+	<features>
+		<feature>Run and build to get as far as possibly!</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Craft-Runner Trailer</name>
+			<youtube>-zRBZJQfZM8</youtube>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video (short)</name>
+			<youtube>0vDAiCUB0M8</youtube>
+		</trailer>
+	</trailers>
+
+	<quotes>
+		<quote>
+			<description>Dit is één kickass game!</description>
+			<name>HelleFoot</name>
+			<website>Youtube</website>
+			<link>http://www.youtube.com/watch?v=yBXKPT3WXyI</link>
+		</quote>
+	</quotes>
+	
+	<credits>
+		<credit>
+			<person>Abel Beekink</person>
+			<role>Developer</role>
+		</credit>
+		<credit>
+			<person>Marc van der Made</person>
+			<role>Developer</role>
+		</credit>
+		<credit>
+			<person>Gertjan Egas</person>
+			<role>Game Designer</role>
+		</credit>
+		<credit>
+			<person>Audi van Gog</person>
+			<role>Artist</role>
+		</credit>
+		<credit>
+			<person>Yenaz Khemradj</person>
+			<role>Artist</role>
+		</credit>
+	</credits>
+</game>
