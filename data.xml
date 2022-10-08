@@ -2,19 +2,19 @@
 
 <game>
 	<title>Craft-Runner</title>
-	<release-date>Not released yet</release-date>
+	<release-date>Sep 12, 2022</release-date>
 	<website>https://craftrunner.esolutions-it.nl/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
 		<platform>
 			<name>Play Store</name>
-			<link></link>
+			<link>https://play.google.com/store/apps/details?id=com.EvilMonkeyStudio.CraftRunner</link>
 		</platform>
 	</platforms>
 	
 	<description>
-
+		Craft Runner is an endless runner game with a unique twist. The player has no direct control over the main character. Instead, they can build boxes and springboards to create a safe path for the character. By building bridges or stairs and covering dangerous obstacles, the player tries to keep the character alive for as long as possible through a series of randomly chosen level chunks.
 	</description>
 
 	<features>
@@ -24,22 +24,13 @@
 	<trailers>
 		<trailer>
 			<name>Craft-Runner Trailer</name>
-			<youtube>-zRBZJQfZM8</youtube>
+			<youtube>C2Ob3asbyfs</youtube>
 		</trailer>
 		<trailer>
 			<name>Gameplay Video (short)</name>
-			<youtube>0vDAiCUB0M8</youtube>
+			<youtube>Yz0cSK9YfRg</youtube>
 		</trailer>
 	</trailers>
-
-	<quotes>
-		<quote>
-			<description>Dit is één kickass game!</description>
-			<name>HelleFoot</name>
-			<website>Youtube</website>
-			<link>http://www.youtube.com/watch?v=yBXKPT3WXyI</link>
-		</quote>
-	</quotes>
 	
 	<credits>
 		<credit>
